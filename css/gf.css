@@ -17,6 +17,7 @@ a:link {
     font-weight: bold;
     background-color: transparent;
     text-decoration: none;
+    font-family: "sillyfont";
 }
 
 a:visited {
@@ -113,6 +114,7 @@ p {
     text-shadow: 0px 4px 0 #633;
     margin-top: 7px; margin-bottom: 2px;
     font-family: 'sillyfont'; 
+
 }
 .hover {
     transition: transform 0.2s ease-out;
