@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'sillyfont';
-  src: url('sillyfont.ttf') format('truetype');
+  src: url('https://raw.githubusercontent.com/betpowo/betpowo.github.io/main/sillyfont.ttf') format('truetype');
 }
 
 body {
