@@ -82,6 +82,10 @@ a:active {
     text-align: center;
 }
 
+#stinky .board a {
+    text-shadow: none;
+}
+
 #californiagirls {
     text-align: center; 
     line-height: 6px; 
