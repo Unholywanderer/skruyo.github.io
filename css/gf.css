@@ -1,4 +1,7 @@
-@import url("assets/fonts/sillyfont.css");
+@font-face {
+  font-family: 'sillyfont';
+  src: url('sillyfont.ttf') format('truetype');
+}
 
 body {
     font-family: 'sillyfont';
