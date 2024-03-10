@@ -84,6 +84,7 @@ a:active {
 
 #stinky .board a {
     text-shadow: none;
+    line-height: normal;
 }
 
 #californiagirls {
