@@ -1,7 +1,7 @@
 /* My gfs font */
 @font-face {
     font-family: "sillyfont";
-    src: url("assets/fonts/sillyfont.ttf") format("truetype");
+    src: url("https://raw.githubusercontent.com/betpowo/betpowo.github.io/main/sillyfont.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
