@@ -1,29 +1,7 @@
-#container {
-    height: 100%;
-    width: 100%;
-
-    overflow: hidden;
-    position: relative;
-    
-    text-align: center;
-    align-items: center;
-    justify-content: center;
-
-    display: flex;
-}
-
 
 #avatar {
     width: 150px;
     height: 150px;
-}
-
-
-#infoObject {
-    border: 2px solid;
-    border-color: var(--accent-color);
-    border-radius: 10px;
-    padding: 10px;
 }
 
 .langList a img {
@@ -35,6 +13,11 @@
     border-radius: 34px;
     padding: 4px;
     overflow: auto;
+    transition: border-color 0.3s ease-in;
+}
+
+.langList a img:hover {
+    border-color: var(--secondary-color);
 }
 
 #infoTop {
